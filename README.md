@@ -9,8 +9,8 @@
 Battl     
 PUB       
 R6
-U  
-Arm    
+U 
+Arm     
 Fortn    
 Easy Anti-cheat:  
 
