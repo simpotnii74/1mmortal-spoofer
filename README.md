@@ -7,8 +7,8 @@
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://gi thub.com/NIcecz /hwid-s poofr/assets/11065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in g    
 Battl    
-PUB         
-R6:Sie  
+PUB        
+R6:Sie   
 Untur
 Arma 3 
 Fortnite
