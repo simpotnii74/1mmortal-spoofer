@@ -9,9 +9,9 @@
 Battl    
 PUB        
 R6:Sie   
-Untur
+Untur 
 Arma 3 
-Fortnite
+Fortnit
 Easy Anti-cheat: 
   
 Apex
