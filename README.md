@@ -9,8 +9,8 @@
 ## Work in games
 
 BattleEye 
-PUB  
-EF
+PUB   
+E
 Da   
 R6:Siege
 Unturned
