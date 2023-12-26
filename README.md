@@ -9,9 +9,9 @@
 Battl     
 PUB       
 R6
-U 
+U  
 Arm     
-Fortn    
+Fortn   
 Easy Anti-cheat:  
 
 Apex     
