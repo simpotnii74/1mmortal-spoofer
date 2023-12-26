@@ -10,8 +10,8 @@
 
 BattleEye 
 PUB  
-EFT
-Da  
+EF
+Da   
 R6:Siege
 Unturned
 Arma 3
