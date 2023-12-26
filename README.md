@@ -9,8 +9,8 @@
 Battl    
 PUB       
 R6:Sie  
-U 
-Arma 3
+U  
+Arma 
 Fortn  
 Easy Anti-cheat:    
 
