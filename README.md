@@ -9,9 +9,9 @@
 ## Work in games 
 
 BattleEye 
-PUBG
+PUB
 EFT 
-Da 
+Da  
 R6:Siege 
 Unturned
 Arma 3
