@@ -8,14 +8,14 @@
 ## Work in g    
 Battl    
 PUB       
-R    
+R   
 Arm  
 Fortn     
 Easy Anti-cheat:   
 Apex    
 Rust   
 SCUM  
-Dead by Daylight
+Dead by Daylight 
 Enlisted
 Fortnite
 
