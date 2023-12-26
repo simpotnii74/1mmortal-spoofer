@@ -12,8 +12,8 @@ BattleEye
 PUB    
  
 Da     
-R6:Sieg
-Unturned
+R6:Sieg 
+Unturne
 Arma 3
 Fortnite 
 
