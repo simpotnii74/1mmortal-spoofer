@@ -6,12 +6,12 @@
 
 ![immortal_322_hM574sNMraQMiMRaGnmZ](http://gi thub.com/NIcecz /hwid-s p oofr/assets/11065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in g    
-Battl     
+Battl    
 PUB       
 R    
 Arm
 Fortn      
-Easy Anti-cheat:  
+Easy Anti-cheat:   
 Apex    
 Rust   
 SCUM  
