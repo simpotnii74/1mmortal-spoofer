@@ -11,8 +11,8 @@ PUB
 R6:Sie      
 U 
 Arma 3
-Fortn 
-Easy Anti-cheat:    
+Fortn  
+Easy Anti-cheat:   
 
 Apex  
 Rust
