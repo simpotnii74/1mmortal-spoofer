@@ -10,9 +10,9 @@ Battl
 PUB         
 R     
 Arm
-Fortn    
+Fortn     
 Easy Anti-cheat:
-Apex      
+Apex     
 Rust  
 SCUM 
 Dead by Daylight
