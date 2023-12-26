@@ -9,11 +9,11 @@
 Battl   
 PUB       
 R    
-Arm
+Ar
 Fortn       
 Easy Anti-cheat: 
 Apex  
-Rust   
+Rust    
 SCUM   
 Dead by Daylight 
 Enlisted
