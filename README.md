@@ -9,9 +9,9 @@
 
 ## Work in games - 
 
-BattleEye:
+BattleEye
 
-PUBG
+PUBG 
 EFT
 DayZ
 R6:Siege
