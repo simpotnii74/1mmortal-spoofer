@@ -8,7 +8,7 @@
 ## Work in g   
 Battl     
 PUB      
-R6  
+R6 
 U  
 Arm     
 Fortn     
@@ -16,7 +16,7 @@ Easy Anti-cheat:
 
 Apex    
 Rust 
-SCUM
+SCUM 
 Dead by Daylight
 Enlisted
 Fortnite
