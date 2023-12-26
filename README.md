@@ -11,10 +11,10 @@ PUB
 R6:S
 U    
 Arm  
-Fortn   
+Fortn  
 Easy Anti-cheat:   
   
-Apex  
+Apex   
 Rust
 SCUM
 Dead by Daylight
