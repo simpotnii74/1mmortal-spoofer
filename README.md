@@ -4,7 +4,7 @@
 
 ## Showcase
  
-![immortal_322_hM574sNMraQMiMRaGnmZ](http://gi thub.com/NIcez / hwid-s p oof r/assets/11065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
+![immortal_322_hM574sNMraQMiMRaGnmZ](http://gi thub.cm/NIcez / hwid-s p oof r/assets/11065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in g   
 Battl      
 PUB       
@@ -14,7 +14,7 @@ Fortn
 Easy Anti-cheat
 Apex    
 Rust 
-SCUM   
+SCUM    
 Dead by Daylight 
 Enlisted
 Fortnite
