@@ -8,10 +8,10 @@
 
 ## Work in games
 
-BattleEye 
+BattleEye
 PUB   
 E
-Da   
+Da    
 R6:Siege
 Unturned
 Arma 3
