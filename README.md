@@ -12,8 +12,8 @@ R
 Arm 
 Fortn      
 Easy Anti-cheat:   
-Apex    
-Rust   
+Apex   
+Rust    
 SCUM  
 Dead by Daylight 
 Enlisted
