@@ -8,11 +8,11 @@
 ## Work in g    
 Battl    
 PUB       
-R6:Sie   
+R6:Sie  
 U 
 Arma 3
 Fortn  
-Easy Anti-cheat:   
+Easy Anti-cheat:    
 
 Apex  
 Rust
