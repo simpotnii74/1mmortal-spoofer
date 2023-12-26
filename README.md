@@ -7,11 +7,11 @@
 ![immortal_322_hM574sNMraQMiMRaGnmZ](http://gi t hub.cm/NIcez  hwid-s p oof r/assets/11065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in g    
 Battl      
-PUB      
+PUB       
 R  
      
 Fortn            
-Easy Anti-ch
+Easy Anti-c
 Apex   
 Rust
 SCUM    
