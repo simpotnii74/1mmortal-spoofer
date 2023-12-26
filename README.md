@@ -8,10 +8,10 @@
 
 
 ## Work in games -
- 
+  
 BattleEye
 
-PUBG 
+PUBG
 EFT 
 Day
 R6:Siege
