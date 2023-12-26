@@ -11,10 +11,10 @@ PUB
 R6:Sie 
 Untur 
 Arma 3  
-Fortni
+Fortn
 Easy Anti-cheat:  
      
-Apex
+Apex 
 Rust
 SCUM
 Dead by Daylight
