@@ -9,10 +9,10 @@
 Battl    
 PUB       
 R6:Sie  
-U  
+U   
 Arma
 Fortn  
-Easy Anti-cheat:    
+Easy Anti-cheat:   
  
 Apex  
 Rust
