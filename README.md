@@ -9,10 +9,10 @@
 ## Work in game
 
 BattleEye 
-PUB   
+PUB    
  
 Da     
-R6:Siege
+R6:Sieg
 Unturned
 Arma 3
 Fortnite 
