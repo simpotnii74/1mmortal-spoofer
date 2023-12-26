@@ -9,9 +9,9 @@
 Battl      
 PUB      
 R  
-    
+     
 Fortn            
-Easy Anti-che
+Easy Anti-ch
 Apex   
 Rust
 SCUM    
