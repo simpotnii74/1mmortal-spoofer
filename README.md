@@ -12,8 +12,8 @@ R
   
 Fortn            
 Easy Anti-chea
-Apex  
-Rust 
+Apex   
+Rust
 SCUM    
 Dead by Daylight 
 Enlisted
