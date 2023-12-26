@@ -10,8 +10,8 @@
 Battl  
 PUB           
 D
-R6:Sieg 
-Unturne
+R6:Sieg  
+Unturn
 Arma 3 
 Fortnite 
 Easy Anti-cheat:
