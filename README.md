@@ -10,9 +10,9 @@ Battl
 PUB       
 R6 
 U  
-Arm     
+Arm      
 Fortn    
-Easy Anti-cheat: 
+Easy Anti-cheat:
 
 Apex    
 Rust 
