@@ -8,12 +8,12 @@
 ## Work in g    
 Battl    
 PUB      
-R6:Sie 
+R6:Sie
 U    
 Arm  
 Fortn   
 Easy Anti-cheat:  
- 
+  
 Apex  
 Rust
 SCUM
