@@ -10,9 +10,9 @@ Battl
 PUB        
 R6:Sie 
 Untur 
-Arma 3   
+Arma 3  
 Fortnit
-Easy Anti-cheat: 
+Easy Anti-cheat:  
    
 Apex
 Rust
