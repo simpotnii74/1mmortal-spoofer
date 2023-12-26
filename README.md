@@ -9,11 +9,11 @@
 Battl       
 PUB         
 R  
-    
+   
 Fortn          
 Easy Anti-
 Apex   
-Rust
+Rust 
 SCUM     
 Dead by Daylight 
 Enlisted
