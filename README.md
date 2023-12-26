@@ -8,8 +8,8 @@
 ## Work in g    
 Battl   
 PUB      
-R6:Sie    
-Un
+R6:Sie     
+U
 Arma 3   
 Fortn 
 Easy Anti-cheat:   
