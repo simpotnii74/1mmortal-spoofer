@@ -13,8 +13,7 @@ U
 Arm     
 Fortn      
 Easy Anti-cheat: 
-
-Apex    
+Apex     
 Rust 
 SCUM 
 Dead by Daylight
