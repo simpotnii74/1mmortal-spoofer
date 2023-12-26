@@ -10,8 +10,8 @@ Battl
 PUB         
 R   
 Arm  
-Fortn     
-Easy Anti-cheat:
+Fortn    
+Easy Anti-cheat: 
 Apex     
 Rust  
 SCUM 
