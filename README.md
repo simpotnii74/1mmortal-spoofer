@@ -12,8 +12,8 @@ R
 U  
 Arm   
 Fortn      
-Easy Anti-cheat: 
-Apex     
+Easy Anti-cheat:
+Apex      
 Rust  
 SCUM 
 Dead by Daylight
