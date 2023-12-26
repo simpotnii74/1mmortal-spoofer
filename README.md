@@ -8,12 +8,12 @@
 ## Work in g    
 Battl   
 PUB         
-R   
+R    
 Arm 
 Fortn      
 Easy Anti-cheat:  
 Apex 
-Rust    
+Rust   
 SCUM  
 Dead by Daylight 
 Enlisted
