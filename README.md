@@ -8,9 +8,9 @@
 ## Work in g    
 Battl    
 PUB       
-R6:Sie  
+R6:Sie 
 U   
-Arm
+Arm 
 Fortn   
 Easy Anti-cheat:   
  
