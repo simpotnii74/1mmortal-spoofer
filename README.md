@@ -8,12 +8,12 @@
 
 
 ## Work in games - 
-
+ 
 BattleEye
 
 PUBG 
 EFT
-DayZ
+Day
 R6:Siege
 Unturned
 Arma 3
