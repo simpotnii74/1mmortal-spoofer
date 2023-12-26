@@ -11,8 +11,8 @@
 BattleEye
 PUBG
 EFT  
-Day
-R6:Siege 
+Da
+R6:Siege  
 Unturned
 Arma 3
 Fortnite
