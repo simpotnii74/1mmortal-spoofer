@@ -8,10 +8,10 @@
 ## Work in g     
 Battl      
 PUB          
-R 
+R
     
 Fortn          
-Easy Anti- 
+Easy Anti-  
 Apex   
 Rust 
 SCUM     
