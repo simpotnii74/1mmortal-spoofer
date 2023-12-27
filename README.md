@@ -8,11 +8,11 @@
 ## Work in g     
 Battl      
 PUB          
-R 
+R
    
 Fortn           
 Easy Anti- 
-Apex   
+Apex    
 Rust 
 SCUM     
 Dead by Daylight 
