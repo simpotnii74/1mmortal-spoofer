@@ -10,9 +10,9 @@ Battl
 PUB          
   
 Fortn                
-Easy Anti  
+Easy Anti 
 Apex
-Rust 
+Rust  
 SCUM      
 Dead by Daylight 
 Enlisted
