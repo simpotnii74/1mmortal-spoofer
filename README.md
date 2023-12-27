@@ -10,10 +10,10 @@ Battl
 PUB          
   
 Fortn                
-Easy Anti 
+Easy Anti  
 Apex
 Rust  
-SCUM      
+SCUM     
 Dead by Daylight 
 Enlisted
 Fortnite
