@@ -11,8 +11,8 @@ PUB
 
  
 Fortn                
-Easy Anti
-Apex   
+Easy Anti 
+Apex  
 Rust 
 SCUM      
 Dead by Daylight 
