@@ -9,12 +9,12 @@
 Battl   
 PUB           
   
-Fortn                  
+Fortn                 
 Easy Anti  
 Apex
 Rust 
 SCUM     
-Dead by Daylight 
+Dead by Daylight  
 Enlisted
 Fortnite
 
