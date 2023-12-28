@@ -9,9 +9,9 @@
 Battl   
 PUB           
   
-Fortn                 
+Fortn                  
 Easy Anti 
-Apex 
+Apex
 Rust 
 SCUM     
 Dead by Daylight  
